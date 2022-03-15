@@ -4,6 +4,8 @@
 # pdf-make
 
 High-level API for [pdfmake](https://www.npmjs.com/package/pdfmake) - *PDF
+
+TESTER
 document generation library for server-side and client-side usage in pure
 JavaScript.*
 
